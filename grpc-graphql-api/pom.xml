@@ -48,7 +48,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>28.1-jre</version>
+            <version>32.0.0-jre</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>com.graphql-java-kickstart</groupId>
             <artifactId>graphql-spring-boot-starter</artifactId>
-            <version>5.10.0</version>
+            <version>7.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.graphql-java-kickstart</groupId>
